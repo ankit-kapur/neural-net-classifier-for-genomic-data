@@ -1,0 +1,14 @@
+In train.txt and test.txt, 
+(1) Each column corresponds to one sample
+(2) Each row corresponds to a numeric feature
+
+There 7004 features, but only 70 samples in total.
+We hold out the groudtruth for test.txt, which you need to generate.
+
+This is a typical high-dimentional problems in biomedical research, 
+where the number of features is far more than the number of samples.
+Most machine learning algorithms cannot directly handle this problems well.
+This is an open problems, and you can be creative and try your best to solve this real-world problem
+
+GOOD LUCK!
+ 
